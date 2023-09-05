@@ -7,4 +7,6 @@ SMTP(Correo)
 
 
 Antes de hacer collectstatic/build se deben borrar los anteriores y la base de datos sqlite
-render(en DEBUG y Despliegue script /render/build)
+render(en DEBUG y Despliegue script /render/build) - netlify
+
+
