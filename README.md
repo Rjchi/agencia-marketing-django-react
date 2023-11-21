@@ -1,4 +1,4 @@
-## Despliegue-a.m
+## Despliegue - a.m
 render (base de datos postgrest (y migracion desde el backend))
 aws(configuramos el backend)
 GotDaddy(Dominio)
