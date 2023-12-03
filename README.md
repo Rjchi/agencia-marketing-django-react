@@ -3,7 +3,7 @@ render (base de datos postgrest (y migracion desde el backend))
 aws(configuramos el backend)
 GotDaddy(Dominio)
 claudflare(Rchii5038E+)
-SMTP(Correo)
+SMTP(Correo-gmail)
 
 
 Antes de hacer collectstatic/build se deben borrar los anteriores y la base de datos sqlite
