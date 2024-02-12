@@ -1,5 +1,5 @@
 ## Despliegue a-m:
-Render (base de datos postgrest (y migracion desde el backend))
+Render (Base de datos postgrest (y migracion desde el backend))
 aws(configuramos el backend)
 GotDaddy(Dominio)
 claudflare(Rchii5038E+)
