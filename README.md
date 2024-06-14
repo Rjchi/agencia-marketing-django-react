@@ -2,7 +2,6 @@
 Render (Base de datos postgrest (y migracion desde el backend))
 aws(configuramos el backend)
 GotDaddy(Dominio)
-claudflare(Rchii5038E+)
 SMTP(Correo-gmail)
 
 
